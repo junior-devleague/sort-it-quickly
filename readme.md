@@ -13,7 +13,7 @@ Activity that teaches how to write a quicksort. Part of the Sorting Algorithm Se
 Objective
 =========
 
-Story here
+Create a [quicksort](https://en.wikipedia.org/wiki/Quicksort)
 
 Prerequisites
 =============
@@ -56,6 +56,3 @@ Quicksort is similar to a merge sort in that it uses a [divide and conquer](http
 3.   It recursively calls itself on those lists when the length of the list is greater than 1 (a list of length 1 is, by definition, sorted. This is our base case) and sets the sublist as equal to that function call, as the function call will return a sorted version of the left/right sublist, running all the way down to the base case ( list length = 1)
 4.   After the recursive calling, it creates an output list and appends the left & right sublists in order (along with however many instances with a value equal to the pivot there were between those two)
 5.   It returns the output list, which for sublists gets set as being equal to the left/right sublist 1 step up, or for the final case is the actual output list
-
-### Choto Stretch Goals
--   Create a list using user input rather than predefining it.
