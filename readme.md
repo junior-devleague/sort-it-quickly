@@ -1,7 +1,7 @@
 ---
 author:
 - Somewha7
-title: 'Title Her'
+title: 'Title Here'
 type: Activity
 ---
 
@@ -50,7 +50,7 @@ Tasks
 How It Works
 ============
 
-Quicksort is similar to a merge sort in that it uses a (divide and conquer) [https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm] approach to sorting an input list. The way that our quicksort works is as follows:
+Quicksort is similar to a merge sort in that it uses a [divide and conquer](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) approach to sorting an input list. The way that our quicksort works is as follows:
 1.   It chooses a pivot point
 2.   It splits the list around the pivot point into left & right sublists
 3.   It recursively calls itself on those lists when the length of the list is greater than 1 (a list of length 1 is, by definition, sorted. This is our base case) and sets the sublist as equal to that function call, as the function call will return a sorted version of the left/right sublist, running all the way down to the base case ( list length = 1)
