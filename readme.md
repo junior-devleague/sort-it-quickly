@@ -12,8 +12,7 @@ Activity that teaches how to write a quicksort. Part of the Sorting Algorithm Se
 
 Objective
 =========
-
-Create a [quicksort](https://en.wikipedia.org/wiki/Quicksort)
+The worst has happened... After stopping Bubble Boy and Billy the Squid in the [previous exercise](https://github.com/junior-devleague/clutter-and-confusion/blob/master/readme.md), Dr. Monsoon has had enough. Now he's coming for Heroes Inc. in his oddly menacing whale-shaped zeppelin, and he means business. Ahead of him he's sent waves of his wily and watery minions, and they're wreaking havoc! All of the lists that you oh so carefully sorted have been unsorted, and they're in such a mess that a bubble or insertion just couldn't sort them quickly enough for Heroes Inc. to be able to use them to prepare before Dr. Monsoon gets here! Whatever shall you do? Fortunately, just in the nick of time, you found a sorting algorithm so powerful as to be inconceivable -- the [quicksort](https://en.wikipedia.org/wiki/Quicksort). This sorting algorithm is far faster than any that you'd heard of, and who knows? It may just be enough to save they day...
 
 Prerequisites
 =============
@@ -30,7 +29,7 @@ Requirements
 Desired Outcomes
 ================
 
--   Basic understanding of insertion sorts
+-   Understanding of the quicksort algorithm, and the development of the skills required to write one in python
 
 Tasks
 =====
