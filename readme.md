@@ -24,7 +24,7 @@ Requirements
 ============
 
 -   Shell terminal or Python IDE
--   
+-   Several supremely scattered sets of numbers
 
 Desired Outcomes
 ================
